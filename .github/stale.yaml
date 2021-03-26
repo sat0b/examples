@@ -1,7 +1,7 @@
 # issueが非アクティブ状態からstaleになるまでの非アクティブな日数
-daysUntilStale: 60
+daysUntilStale: 1
 # staleなissueが閉じられるまでの日数
-daysUntilClose: 7
+daysUntilClose: 1
 # staleにさせないラベル
 exemptLabels:
   - pinned
